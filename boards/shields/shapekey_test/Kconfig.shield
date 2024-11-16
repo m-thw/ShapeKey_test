@@ -1,3 +1,2 @@
-# No whitespace after the comma or in your keyboard name!
-config SHAPEKEY_TEST
+config SHIELD_SHAPEKEY_TEST
     def_bool $(shields_list_contains,shapekey_test)
