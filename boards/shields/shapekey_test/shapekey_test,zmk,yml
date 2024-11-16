@@ -1,0 +1,8 @@
+file_format: "1"
+id: shapekey_test
+name: shapekey_test
+type: shield
+url: https://github.com/m-thw/ShapeKey_test
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
