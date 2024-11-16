@@ -19,5 +19,6 @@
 ---
 include:
   - board: seeeduino_xiao_ble
-    shield: shapekey_test
- 
+    shield: Shapekey_test_L
+  - board: seeeduino_xiao_ble
+    shield: Shapekey_test_R
